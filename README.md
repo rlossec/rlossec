@@ -1,6 +1,6 @@
 ### Hi, I'm Raphael! Welcome to my Github! 👋
 
-Python developer who was a former math teacher.
+Python developer and a former math teacher.
 
 - 🌱 I’m currently learning React
 - 🔭 Next I'll develop my skills in Data Science
