@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @S0Imyr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="./img/github-banner.png" alt="" width="100%" />
 
-<!---
-S0Imyr/S0Imyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Raphael! Welcome to my Github! 👋
+
+Python developer who was a former math teacher.
+
+- 🌱 I’m currently learning React
+- 🔭 Next I'll develop my skills in Data Science
+
+
+### How to contact me
+- [LinkedIn](https://www.linkedin.com/in/raphael-lossec/)
+
+
+
+
