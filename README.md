@@ -1,5 +1,3 @@
-<img src="./img/github-banner.png" alt="" width="100%" />
-
 ### Hi, I'm Raphael! Welcome to my Github! 👋
 
 Python developer who was a former math teacher.
