@@ -2,8 +2,7 @@
 
 Python developer and a former math teacher.
 
-- 🌱 I’m currently learning React
-- 🔭 Next I'll develop my skills in Data Science
+- 🌱 I’m currently develop my skills in Data Science
 
 
 ### How to contact me
