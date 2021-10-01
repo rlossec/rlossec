@@ -8,6 +8,3 @@ Python developer and a former math teacher.
 ### How to contact me
 - [LinkedIn](https://www.linkedin.com/in/raphael-lossec/)
 
-
-
-
