@@ -1,8 +1,8 @@
 ### Hi, I'm Raphael! Welcome to my Github! 👋
 
-Python developer and a former math teacher.
+DataScientist and a former math teacher.
 
-- 🌱 I’m currently develop my skills in Data Science
+- 🌱 I’m currently develop my skills in Artificial Intelligence.
 
 
 ### How to contact me
