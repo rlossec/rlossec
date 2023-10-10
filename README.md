@@ -78,12 +78,13 @@ I possess a strong proficiency in data modeling using Python libraries, and I've
 
 ## 3. Python
 
-- Python Software: Chess Tournament Management
-- Web Scraping with Python
+- [Python Software: Chess Tournament Management](https://github.com/S0Imyr/Chess_tournament_managment)
+- [Web Scraping with Python](https://github.com/S0Imyr/Web-scraping)
 
 ## 4. Project Management
 
-- Agile Project Management for Clothing Recommendation
+- Framing AI Project for Clothing Recommendation
+- [Agile project Managment for Learning Application](https://github.com/S0Imyr/Design_learning_application)
 
 
 ### How to contact me
