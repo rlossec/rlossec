@@ -1,9 +1,9 @@
-[Version française](#lossec-raphaël---data-scientist-en)   
-[English Version](#lossec-raphaël---data-scientist-fr)
+[Version française](#lossec-raphaël---data-scientist-fr)   
+[English Version](#lossec-raphaël---data-scientist-en)
 
 # LOSSEC Raphaël - Data Scientist (fr)
 
-Je suis profondément passionné par les mathématiques et les données, et j'explore activement des opportunités dans les domaines de la Science des Données et de l'Intelligence Artificielle. Mon objectif est de mettre à profit mon expertise dans la conception, le développement et le déploiement de modèles de Deep Learning pour créer des solutions impactantes.
+Passionné par les mathématiques et les données, Mon objectif est de mettre à profit mon expertise dans la conception, le développement et le déploiement de modèles de Deep Learning pour créer des solutions impactantes.
 
 Je possède une solide compétence dans la modélisation des données en utilisant des bibliothèques Python, et j'ai également acquis une expérience significative en développement web avec Django et Django REST, en plus du déploiement de modèles d'apprentissage automatique en production avec Microsoft Azure. Cet ensemble de compétences unique me permet de créer des solutions d'IA complètes, allant de la conceptualisation à la mise en œuvre dans le monde réel.
 
@@ -14,13 +14,13 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 - [Analyse de données sur les arbres parisiens](https://github.com/rlossec/Explore_trees_dataset)
 - [Préparation de données pour un ensemble de données sur la santé et le Nutriscore](https://github.com/rlossec/Health-data-preparation)
 
-## 1.2. Apprentissage Automatique
+## 1.2. Machine Learning
 
 - [Création d'un prédicteur d'approbation de prêt](https://github.com/rlossec/Loan-approval-predictor)
 - Développement de la segmentation des clients
 - Création d'une recommandation de contenu
 
-## 1.3. Apprentissage Profond
+## 1.3. Deep Learning
 
 ### Traitement du Langage Naturel (NLP)
 
@@ -51,10 +51,10 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 
 ## Langages
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.sheilds.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Science des Données
+## Data
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -83,14 +83,14 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
-## Environnements de Développement
+## IDE
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+---
 # LOSSEC Raphaël - Data Scientist (en)
 I have a deep passion for mathematics and data, and I'm actively exploring opportunities in the realms of Data Science and Artificial Intelligence. My goal is to leverage my expertise in designing, developing, and deploying Deep Learning models to create impactful solutions.
 
@@ -142,8 +142,8 @@ I possess a strong proficiency in data modeling using Python libraries, and I've
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Data science
 
@@ -181,8 +181,3 @@ I possess a strong proficiency in data modeling using Python libraries, and I've
 
 ## How to contact me
 - [LinkedIn](https://www.linkedin.com/in/raphael-lossec/)
-
----
-<!-- Langue: Français -->
-# Raphaël Lossec - Data Scientist
-
