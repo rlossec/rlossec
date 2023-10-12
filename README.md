@@ -4,7 +4,50 @@ I have a deep passion for mathematics and data, and I'm actively exploring oppor
 
 I possess a strong proficiency in data modeling using Python libraries, and I've also garnered significant experience in web development with Django and Django REST, alongside deploying Machine Learning models in production using Microsoft Azure. This unique skill set enables me to craft comprehensive AI solutions, spanning from conceptualization to real-world implementation
 
-## Hard skills
+# My projects
+
+## 1. Data Science
+
+### 1.1. Data Exploration
+
+- [Data Analysis about Parisian Trees](https://github.com/rlossec/Explore_trees_dataset)
+- [Data Preparation for a dataset around Health and Nutriscore](https://github.com/rlossec/Health-data-preparation)
+
+### 1.2. Machine Learning
+- [Build loan approval predictor](https://github.com/rlossec/Loan-approval-predictor)
+- Develop customer Segmentation
+- Build a content Recommendation
+
+### 1.3. Deep Learning
+
+#### Natural Language Processing (NLP)
+
+- Identifying Customer Dissatisfaction Topics in Reviews
+- Sentiment Analysis on Tweets
+
+#### Computer Vision
+
+- Automatic Classification of Restaurant Photos
+- Semantic Image Segmentation
+
+## 2. Web Development
+
+- [Django Book Review Application](https://github.com/rlossec/Book_review_django)
+
+## 3. Python
+
+- [Python Software: Chess Tournament Management](https://github.com/rlossec/Chess_tournament_managment)
+- [Web Scraping with Python](https://github.com/rlossec/Web-scraping)
+- [Optimisation Algorithms for Investments](https://github.com/rlossec/Optimized-Investment-Algorithm)
+
+## 4. Project Management
+
+- [Framing AI Project for Clothing Recommendation](https://github.com/rlossec/Clothing_AI_recommendation)
+- [Agile project Managment for Learning Application](https://github.com/rlossec/Design_learning_application)
+
+
+
+# Hard skills
 
 
 ### Languages
@@ -46,47 +89,25 @@ I possess a strong proficiency in data modeling using Python libraries, and I've
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 
-# My projects
-
-## 1. Data Science
-
-### 1.1. Data Exploration
-
-- Data Analysis about Parisian Trees
-- Data Preparation for a dataset around Health and Nutriscore
-
-### 1.2. Machine Learning
-- Credit Scoring
-- Customer Segmentation
-- Content Recommendation
-
-### 1.3. Deep Learning
-
-#### Natural Language Processing (NLP)
-
-- Identifying Customer Dissatisfaction Topics in Reviews
-- Sentiment Analysis on Tweets
-
-#### Computer Vision
-
-- Automatic Classification of Restaurant Photos
-- Semantic Image Segmentation
-
-## 2. Web Development
-
-- Django Book Review Application
-
-## 3. Python
-
-- [Python Software: Chess Tournament Management](https://github.com/rlossec/Chess_tournament_managment)
-- [Web Scraping with Python](https://github.com/rlossec/Web-scraping)
-
-## 4. Project Management
-
-- Framing AI Project for Clothing Recommendation
-- [Agile project Managment for Learning Application](https://github.com/rlossec/Design_learning_application)
-
 
 ### How to contact me
 - [LinkedIn](https://www.linkedin.com/in/raphael-lossec/)
 
+
+
+
+<!-- Langue: Français -->
+# Raphaël Lossec - Data Scientist
+
+## Objectif professionnel
+J'ai une passion profonde pour les mathématiques et les données, et j'explore activement des opportunités dans les domaines de la Data Science et de l'Intelligence Artificielle. Mon objectif est d'utiliser mon expertise dans la conception, le développement et le déploiement de modèles d'apprentissage profond pour créer des solutions impactantes.
+
+Je possède une solide maîtrise de la modélisation des données en utilisant les bibliothèques Python, et j'ai également acquis une expérience significative dans le développement web avec Django et Django REST, ainsi que dans le déploiement de modèles d'apprentissage automatique en production avec Microsoft Azure. Cet ensemble de compétences unique me permet de concevoir des solutions d'IA complètes, de la conceptualisation à la mise en œuvre dans le monde réel.
+
+<!-- Langue: Anglais -->
+# Raphael Lossec - Data Scientist
+
+## Professional Objective
+I have a deep passion for mathematics and data, and I'm actively exploring opportunities in the realms of Data Science and Artificial Intelligence. My goal is to leverage my expertise in designing, developing, and deploying Deep Learning models to create impactful solutions.
+
+I possess a strong proficiency in data modeling using Python libraries, and I've also garnered significant experience in web development with Django and Django REST, alongside deploying Machine Learning models in production using Microsoft Azure. This unique skill set enables me to craft comprehensive AI solutions, spanning from conceptualization to real-world implementation.
