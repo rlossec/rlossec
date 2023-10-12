@@ -3,8 +3,6 @@
 
 # LOSSEC Raphaël - Data Scientist (fr)
 
-# LOSSEC Raphaël - Data Scientist
-
 Je suis profondément passionné par les mathématiques et les données, et j'explore activement des opportunités dans les domaines de la Science des Données et de l'Intelligence Artificielle. Mon objectif est de mettre à profit mon expertise dans la conception, le développement et le déploiement de modèles de Deep Learning pour créer des solutions impactantes.
 
 Je possède une solide compétence dans la modélisation des données en utilisant des bibliothèques Python, et j'ai également acquis une expérience significative en développement web avec Django et Django REST, en plus du déploiement de modèles d'apprentissage automatique en production avec Microsoft Azure. Cet ensemble de compétences unique me permet de créer des solutions d'IA complètes, allant de la conceptualisation à la mise en œuvre dans le monde réel.
