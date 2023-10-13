@@ -7,7 +7,7 @@ Passionné par les mathématiques et les données, Mon objectif est de mettre à
 
 Je possède une solide compétence dans la modélisation des données en utilisant des bibliothèques Python, et j'ai également acquis une expérience significative en développement web avec Django et Django REST, en plus du déploiement de modèles d'apprentissage automatique en production avec Microsoft Azure. Cet ensemble de compétences unique me permet de créer des solutions d'IA complètes, allant de la conceptualisation à la mise en œuvre dans le monde réel.
 
-# 1. Projets de Données
+# 1. Projets Data
 
 ## 1.1. Exploration de Données
 
@@ -180,4 +180,4 @@ I possess a strong proficiency in data modeling using Python libraries, and I've
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## How to contact me
-- [LinkedIn](https://www.linkedin.com/in/raphael-lossec/)
+- [LinkedIn](https://www.linkedin.com/in/raphael-lossec/)~~
