@@ -47,7 +47,7 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 - [Projet d'IA pour la Recommandation de Vêtements](https://github.com/rlossec/Clothing_AI_recommendation)
 - [Gestion de projet Agile pour une Application d'Apprentissage](https://github.com/rlossec/Design_learning_application)
 
-# 3. Compétences Techniques
+# 5. Compétences Techniques
 
 ## Langages
 
@@ -137,7 +137,7 @@ I possess a strong proficiency in data modeling using Python libraries, and I've
 - [Agile project Managment for Learning Application](https://github.com/rlossec/Design_learning_application)
 
 
-# 3. Hard skills
+# 5. Hard skills
 
 
 ## Languages
