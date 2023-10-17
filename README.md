@@ -34,18 +34,21 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 
 # 2. Projets de Développement Web
 
+- [API Django pour le CRM dans l'événementiel](https://github.com/rlossec/CRM-API-Event)
+- [API Django de suivi d'erreurs](https://github.com/rlossec/Issue-Tracker-API-REST)
 - [Application d'avis de livres Django](https://github.com/rlossec/Book_review_django)
 
 # 3. Projets Python
 
 - [Logiciel Python : Gestion de tournois d'échecs](https://github.com/rlossec/Chess_tournament_managment)
-- [Web Scraping avec Python](https://github.com/rlossec/Web-scraping)
 - [Algorithmes d'optimisation pour les investissements](https://github.com/rlossec/Optimized-Investment-Algorithm)
+- [Tester et debugger une application Python](https://github.com/rlossec/Tests_debug_python)
+- [Web Scraping avec Python](https://github.com/rlossec/Web-scraping)
 
 # 4. Gestion de Projet
 
 - [Projet d'IA pour la Recommandation de Vêtements](https://github.com/rlossec/Clothing_AI_recommendation)
-- [Gestion de projet Agile pour une Application d'Apprentissage](https://github.com/rlossec/Design_learning_application)
+- [Gestion de projet Agile d'une application de soutien scolaire](https://github.com/rlossec/Design_learning_application)
 
 # 5. Compétences Techniques
 
