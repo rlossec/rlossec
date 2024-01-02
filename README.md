@@ -1,7 +1,7 @@
 [Version française](#lossec-raphaël---data-scientist-fr)   
 [English Version](#lossec-raphaël---data-scientist-en)
 
-# LOSSEC Raphaël - Data Scientist (fr)
+# LOSSEC Raphaël - Développeur Python
 
 Passionné par les mathématiques et les données, Mon objectif est de mettre à profit mon expertise dans la conception, le développement et le déploiement de modèles de Deep Learning pour créer des solutions impactantes.
 
