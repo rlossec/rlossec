@@ -25,7 +25,7 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 ### Traitement du Langage Naturel (NLP)
 
 - Identification des sujets de mécontentement des clients dans les avis
-- Analyse des sentiments sur les tweets
+- [Analyse des sentiments sur les tweets](https://github.com/rlossec/sentiment_analysis)
 
 ### Vision par Ordinateur
 
