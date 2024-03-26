@@ -18,7 +18,7 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 
 - [Création d'un prédicteur d'approbation de prêt](https://github.com/rlossec/Loan-approval-predictor)
 - [Développement de la segmentation des clients](https://github.com/rlossec/Customer-segmentation)
-- Création d'une recommandation de contenu
+- Création d'une application de recommandation de contenu
 
 ## 1.3. Deep Learning
 
@@ -48,7 +48,7 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 # 4. Gestion de Projet
 
 - [Projet d'IA pour la Recommandation de Vêtements](https://github.com/rlossec/Clothing_AI_recommendation)
-- [Gestion de projet Agile d'une application de soutien scolaire](https://github.com/rlossec/Design_learning_application)
+- [Projet agile de design d'une application de soutien scolaire](https://github.com/rlossec/Design_learning_application)
 
 # 5. Compétences Techniques
 
