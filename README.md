@@ -18,7 +18,7 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 
 - [Création d'un prédicteur d'approbation de prêt](https://github.com/rlossec/Loan-approval-predictor)
 - [Développement de la segmentation des clients](https://github.com/rlossec/Customer-segmentation)
-- Création d'une application de recommandation de contenu
+- [Création d'une application de recommandation de contenu](https://github.com/rlossec/RecSys_notebooks)
 
 ## 1.3. Deep Learning
 
