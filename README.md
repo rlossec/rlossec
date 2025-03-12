@@ -30,7 +30,7 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 ### Vision par Ordinateur
 
 - [Classification automatique des photos de restaurants](https://github.com/rlossec/ia-tools-for-restauration/tree/master/src)
-- Ségmentation sémantique d'images
+- [Segmentation sémantique d'images](https://github.com/rlossec/semantic-segmentation-models)
 
 # 2. Projets de Développement Web
 
