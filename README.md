@@ -24,12 +24,12 @@ Je possède une solide compétence dans la modélisation des données en utilisa
 
 ### Traitement du Langage Naturel (NLP)
 
-- Identification des sujets de mécontentement des clients dans les avis
+- [Identification des sujets de mécontentement des clients dans les avis](https://github.com/rlossec/ia-tools-for-restauration/tree/master/src)
 - [Analyse des sentiments sur les tweets](https://github.com/rlossec/sentiment_analysis)
 
 ### Vision par Ordinateur
 
-- Classification automatique des photos de restaurants
+- [Classification automatique des photos de restaurants](https://github.com/rlossec/ia-tools-for-restauration/tree/master/src)
 - Ségmentation sémantique d'images
 
 # 2. Projets de Développement Web
