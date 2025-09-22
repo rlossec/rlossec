@@ -9,7 +9,7 @@ Issu d’une formation en **mathématiques et data**, j’apporte une rigueur an
 
 ---
 
-# 🚀 Projets FullStack
+# 🚀 Projets web
 
 ## [Challenge Me!](https://github.com/rlossec/ChallengeMe)
 **Application web de quiz et d’évaluation en culture générale**  
