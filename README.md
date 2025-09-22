@@ -1,6 +1,3 @@
-[Version française](#lossec-raphaël---développeur-fullstack-fr)  
-[English Version](#lossec-raphaël---fullstack-developer-en)
-
 # LOSSEC Raphaël - Développeur FullStack
 
 Développeur passionné, je conçois et développe des applications **web modernes** en alliant :  
@@ -14,7 +11,7 @@ Issu d’une formation en **mathématiques et data**, j’apporte une rigueur an
 
 # 🚀 Projets FullStack
 
-## [Challenge Me!](#)
+## [Challenge Me!](https://github.com/rlossec/ChallengeMe)
 **Application web de quiz et d’évaluation en culture générale**  
 - **Stack** : React.js + TailwindCSS (UI), Zustand & SWR (état & data), Django REST Framework (API), PostgreSQL (BDD).  
 - **Fonctionnalités clés** :
@@ -25,7 +22,7 @@ Issu d’une formation en **mathématiques et data**, j’apporte une rigueur an
 
 ---
 
-## [BetSight](#)
+## [BetSight](https://github.com/rlossec/BetSight)
 **Outil de scrapping et d’analyse de données pour comparer les cotes des bookmakers**  
 - **Stack** : Selenium (scraping), NumPy, Pandas, Matplotlib, Seaborn (analyse & visualisation).  
 - **Points clés** :
@@ -47,7 +44,7 @@ Issu d’une formation en **mathématiques et data**, j’apporte une rigueur an
 
 ---
 
-# 📊 Projets Data & IA (Bagage complémentaire)
+# 📊 Projets Data & IA
 
 - [Exploration de données sur les arbres parisiens](https://github.com/rlossec/Explore_trees_dataset)  
 - [Analyse de sentiments sur des tweets](https://github.com/rlossec/sentiment_analysis)  
