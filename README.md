@@ -1,80 +1,58 @@
-# LOSSEC Raphaël - Développeur FullStack
+# LOSSEC Raphaël — Full-Stack Developer
 
-Développeur passionné, je conçois et développe des applications **web modernes** en alliant :
+Passionate developer; I design and build **modern web applications** combining:
 
-- **Backend** robuste avec **Django REST Framework**,
-- **Frontend** dynamique et ergonomique avec **React TypeScript** et **TailwindCSS**,
-- Des pratiques de **qualité logicielle** (architecture claire, documentation, tests, dockerisation).
+- A solid **backend** with **Django REST Framework**,
+- A dynamic, ergonomic **frontend** with **React**, **TypeScript**, and **Tailwind CSS**,
+- **Software quality** practices (clear architecture, documentation, tests, containerisation).
 
-Issu d’une formation en **mathématiques et data**, j’apporte une rigueur analytique qui me permet d’aborder aussi bien les problématiques de développement applicatif que les projets orientés **data science et IA**.
-
----
-
-# 🚀 Projets web
-
-## [Plateforme temps réel (en cours)](https://github.com/rlossec/shadow-role)
-
-**Application de jeu interactif en direct avec gestion des websockets**
-
-- **Stack** : React.js + TailwindCSS, FastAPI + SocketIO, PostgreSQL.
-- **Fonctionnalités** :
-  - Mécanique de buzz en temps réel avec synchro instantanée entre joueurs.
-  - Canal websocket par session de jeu → propagation des actions en direct.
-- **Défis techniques** : logique serveur robuste.
-- **Déploiement** : dockerisation prévue, montée en charge avec Kubernetes possible.
+With a background in **mathematics and data**, I bring analytical rigour to both application development and **data science / ML** projects.
 
 ---
 
-## [Challenge Me!](https://github.com/rlossec/ChallengeMe)
+# Web projects
 
-**Application web de quiz et d’évaluation en culture générale**
+## [Burger Quiz](https://github.com/rlossec/burger-quiz-app) *(in development)*
 
-- **Stack** : React.js + TailwindCSS (UI), Zustand & SWR (état & data), Django REST Framework (API), PostgreSQL (BDD).
-- **Fonctionnalités clés** :
-  - Gestion des utilisateurs avec rôles (créateurs ↔ joueurs).
-  - Création, édition et passage de quiz interactifs.
-  - API optimisée pour échanges fluides front ↔ back.
-- **Défis techniques** : intégration réactive front/back, gestion des états utilisateurs en temps réel.
+**Web app to run Burger Quiz–style evenings (rounds, sessions, live questions, team scores)**
+
+- **Stack:** Django 6 + Django REST Framework (Python 3.12), React + TypeScript + Vite + Tailwind CSS, PostgreSQL 18, Docker Compose.
+- **Highlights:** monorepo (API + SPA), quiz data via fixtures, environment per service.
 
 ---
 
-## [BetSight](https://github.com/rlossec/BetSight)
+## Internal Tools
 
-**Outil de scrapping et d’analyse de données pour comparer les cotes des bookmakers**
+**Full-stack app to inventory internal tools, track cost and usage, and power analytics dashboards**
 
-- **Stack** : Selenium (scraping), NumPy, Pandas, Matplotlib, Seaborn (analyse & visualisation).
-- **Points clés** :
-  - Contournement des protections anti-bots dans le respect du **robots.txt**.
-  - Stockage des données collectées en CSV puis analyse statistique.
-  - Visualisation claire des tendances et écarts de cotes.
-- **Défis techniques** : adaptation à des sites hétérogènes et gestion des délais pour éviter les blocages.
+- **Frontend:** [internal-tools-frontend](https://github.com/rlossec/internal-tools-frontend) — React 19, TypeScript, Vite 7, TanStack Query, Tailwind CSS v4, Recharts, React Router v7.
+- **Backend:** [internal-tools-backend](https://github.com/rlossec/internal-tools-backend) — FastAPI, SQLAlchemy 2.0, PostgreSQL, OpenAPI docs.
+- **Features:** tool catalogue (CRUD, filters, pagination), dashboards (costs by department, expensive tools, usage insights), light/dark theme, responsive UI.
 
 ---
 
-# 📊 Projets Data & IA
+# Data & ML projects
 
-- [Exploration de données sur les arbres parisiens](https://github.com/rlossec/Explore_trees_dataset)
-- [Analyse de sentiments sur des tweets](https://github.com/rlossec/sentiment_analysis)
-- [Prédicteur d’approbation de prêt](https://github.com/rlossec/Loan-approval-predictor)
-- [Segmentation de clients](https://github.com/rlossec/Customer-segmentation)
-- [Recommandation de contenu](https://github.com/rlossec/RecSys_notebooks)
-
----
-
-# 🛠️ Compétences Techniques
-
-- **Backend** : Django, Django REST, Django Channels, Celery
-- **Frontend** : React, TypeScript, TailwindCSS
-- **Bases de données** : PostgreSQL
-- **Data/IA** : Pandas, NumPy, NLP (SpaCy, NLTK, Gensim), TensorFlow
-- **DevOps** : Docker, notions Kubernetes
-- **Outils** : Git, GitHub, CI/CD
+- [Exploring the Paris trees dataset](https://github.com/rlossec/Explore_trees_dataset)
+- [Sentiment analysis on tweets](https://github.com/rlossec/sentiment_analysis)
+- [Loan approval predictor](https://github.com/rlossec/Loan-approval-predictor)
+- [Customer segmentation](https://github.com/rlossec/Customer-segmentation)
+- [Content recommendation](https://github.com/rlossec/RecSys_notebooks)
 
 ---
 
-# 🎯 Objectif
+# Technical skills
 
-Je recherche un poste de **développeur confirmé FullStack (Django + React)** dans un environnement où la **qualité logicielle, la modélisation et l’esprit d’équipe** sont valorisés.  
-À moyen terme, je souhaite évoluer vers un rôle de **lead technique ou manager**, tout en gardant un fort ancrage pratique dans le code.
+- **Backend:** Django REST, FASTAPI
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Databases:** PostgreSQL
+- **Data / ML:** Pandas, NumPy, NLP (spaCy, NLTK, Gensim), TensorFlow
+- **DevOps:** Docker, basic Kubernetes
+- **Tools:** Git, GitHub, CI/CD
 
 ---
+
+# Objective
+
+I am looking for a **mid-level or senior full-stack developer** role where **software quality, modelling, and teamwork** matter.  
+In the medium term, I want to grow toward **tech lead or engineering manager** while staying hands-on with code.
